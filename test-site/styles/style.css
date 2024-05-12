@@ -1,0 +1,27 @@
+html {
+    background-color: #edd8c8;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    /* margin: 0; */
+    padding: 20px 0;
+    color: #84bcf5;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
